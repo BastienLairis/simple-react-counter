@@ -2,8 +2,8 @@ import { useState } from "react";
 import "./App.css";
 
 //components
-import Increment from "./components/Increment";
-import Decrement from "./components/Decrement";
+// import Increment from "./components/Increment";
+// import Decrement from "./components/Decrement";
 import Button from "./components/Button";
 
 function App() {
